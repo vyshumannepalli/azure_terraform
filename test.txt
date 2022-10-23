@@ -1,0 +1,1 @@
+This is first commit of azure terraform repo.
