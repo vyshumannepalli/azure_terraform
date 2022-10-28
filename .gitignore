@@ -1,0 +1,6 @@
+.terraform
+.terraform/*
+
+# Compiled files
+*.tfstate
+*.tfstate.backup
